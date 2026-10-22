@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=buildwithsomnath&label=Profile%20views&color=0e75b6&style=flat" alt="buildwithsomnath" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=buildwithsomnath" alt="buildwithsomnath" /></a> </p>
-
 - 🔭 I’m currently working on **Space Debris Collision Risk**
 
 - 🌱 I’m currently doing **my masters**
