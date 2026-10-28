@@ -32,7 +32,7 @@ I'm a Software Engineer who builds backend systems with Python and Django, and I
 
 **Stack:** C++, Python, Django, Git, Linux, Pandas, Tensorflow, React
 
-**CP:**  · 5-Star Gold Badge in C++ Problem Solving on HackerRank · active on Codeforces ([dassomnath](https://codeforces.com/profile/dassomnath))
+**CP:** 5-Star Gold Badge in C++ Problem Solving on HackerRank · active on Codeforces ([dassomnath](https://codeforces.com/profile/dassomnath))
 
 **Certification:** NPTEL Data Science Elite
 
