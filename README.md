@@ -30,13 +30,11 @@ I'm a Software Engineer who builds backend systems with Python and Django, and I
 
 ---
 
-**Stack:** Python, C/C++, Django, Django Rest Framework, JWT Auth, Django Channels, MySQL, Docker, Git, Linux
+**Stack:** C++, Python, Django, Git, Linux, Pandas, Tensorflow, React
 
-**ML/Data:** NumPy, Pandas, Matplotlib, Scikit-Learn, TensorFlow
+**CP:**  · 5-Star Gold Badge in C++ Problem Solving on HackerRank · active on Codeforces ([dassomnath](https://codeforces.com/profile/dassomnath))
 
-**CP:** 150+ LeetCode problems · 5-Star Gold Badge in C++ Problem Solving on HackerRank · active on Codeforces ([dassomnath](https://codeforces.com/profile/dassomnath))
-
-**Certification:** NPTEL Data Science, Elite (Top 5% nationwide)
+**Certification:** NPTEL Data Science Elite
 
 Open to software engineering and backend roles. Reach me at somnathdas4462@gmail.com
 
@@ -49,7 +47,7 @@ Open to software engineering and backend roles. Reach me at somnathdas4462@gmail
 <p>
   <a href="https://linkedin.com/in/buildwithsomnath">LinkedIn</a>
   &nbsp;·&nbsp;
-  <a href="https://github.com/buildwithsomnath">GitHub</a>
+  <a href="https://leetcode.com/u/buildwithsomnath">Leetcode</a>
   &nbsp;·&nbsp;
   <a href="mailto:somnathdas4462@gmail.com">Email</a>
   &nbsp;·&nbsp;
