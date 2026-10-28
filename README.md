@@ -4,9 +4,17 @@ I'm a Software Engineer who builds backend systems with Python and Django, and I
 
 ---
 
+#### Currently Building
+
+- **Space Debris Collision Prediction with XAI** · M.Tech project on predicting space debris collisions with explainable AI, so the model's risk assessments can be interpreted and not just trusted blindly
+- **Documind** · upload PDFs and documents, then chunk, embed, and index them so their content can be searched and used downstream
+- **Portfolio Website** · a personal portfolio site to showcase my projects, experience, and competitive programming work
+
+---
+
 #### Realtime-Chat Marketplace · Personal Project
 
-[Source](https://github.com/buildwithsomnath/plant-disease-detection)
+[Source](https://github.com/buildwithsomnath/realtime-marketplace)
 
 - **Platform** · an online marketplace with product management, user authentication and REST APIs built on Django and Django Rest Framework
 - **Realtime chat** · buyer-seller messaging over WebSockets using Django Channels, so conversations happen inside the marketplace
@@ -16,7 +24,7 @@ I'm a Software Engineer who builds backend systems with Python and Django, and I
 
 #### Plant Disease Detection & Fertilizer Recommendation · Final Year Project (A+)
 
-[Source](https://github.com/buildwithsomnath/realtime-marketplace)
+[Source](https://github.com/buildwithsomnath/plant-disease-detection)
 
 - **Model** · custom 5-layer CNN in TensorFlow reaching 87% accuracy
 - **API** · Django-based service that analyzes a detected disease and recommends a fertilizer from its features
