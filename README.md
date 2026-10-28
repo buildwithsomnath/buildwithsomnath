@@ -6,7 +6,7 @@ I'm a Software Engineer who builds backend systems with Python and Django, and I
 
 #### Realtime-Chat Marketplace · Personal Project
 
-[Source](https://github.com/buildwithsomnath)
+[Source](https://github.com/buildwithsomnath/plant-disease-detection)
 
 - **Platform** · an online marketplace with product management, user authentication and REST APIs built on Django and Django Rest Framework
 - **Realtime chat** · buyer-seller messaging over WebSockets using Django Channels, so conversations happen inside the marketplace
@@ -16,7 +16,7 @@ I'm a Software Engineer who builds backend systems with Python and Django, and I
 
 #### Plant Disease Detection & Fertilizer Recommendation · Final Year Project (A+)
 
-[Source](https://github.com/buildwithsomnath)
+[Source](https://github.com/buildwithsomnath/realtime-marketplace)
 
 - **Model** · custom 5-layer CNN in TensorFlow reaching 87% accuracy
 - **API** · Django-based service that analyzes a detected disease and recommends a fertilizer from its features
