@@ -6,7 +6,7 @@ I'm a Software Engineer who builds backend systems with Python and Django, and I
 
 #### Currently Building
 
-- **Space Debris Collision Prediction with XAI** · M.Tech project on predicting space debris collisions with explainable AI, so the model's risk assessments can be interpreted and not just trusted blindly
+- **E-Commerce Customer Churn Prediction with XAI** · M.Tech project on predicting transactional churn and degrading spending behavior using explainable AI, so the model's risk assessments can be interpreted and not just trusted blindly.
 - **Documind** · upload PDFs and documents, then chunk, embed, and index them so their content can be searched and used downstream
 - **Portfolio Website** · a personal portfolio site to showcase my projects, experience, and competitive programming work
 
