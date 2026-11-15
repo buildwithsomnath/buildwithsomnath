@@ -12,13 +12,14 @@ I'm a Software Engineer who builds backend systems with Python and Django, and I
 
 ---
 
-#### Realtime-Chat Marketplace · Personal Project
+#### DocuMind · Grounded Document Intelligence
 
-[Source](https://github.com/buildwithsomnath/realtime-marketplace)
+[Source](https://github.com/buildwithsomnath/documind)
 
-- **Platform** · an online marketplace with product management, user authentication and REST APIs built on Django and Django Rest Framework
-- **Realtime chat** · buyer-seller messaging over WebSockets using Django Channels, so conversations happen inside the marketplace
-- **Stack** · Python, Django, DRF, Django Channels, MySQL
+- **Platform** · A full-stack document Q&A platform for uploading PDFs and Word documents, searching their contents, and getting answers grounded in the source material.
+- **RAG pipeline** · Combines semantic and keyword search, reranks relevant passages, and generates answers with verifiable citations to help reduce hallucinations.
+- **Evaluation** · Includes a dashboard for comparing retrieval methods and measuring answer quality.
+- **Stack** · Python, Flask, React, PostgreSQL, pgvector, Google Gemini, Docker.
 
 ---
 
