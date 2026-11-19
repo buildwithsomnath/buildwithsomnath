@@ -22,7 +22,7 @@ I'm a Software Engineer who builds backend systems with Python and Django, and I
 
 ---
 
-#### Plant Disease Detection & Fertilizer Recommendation · Final Year Project (A+)
+#### Plant Disease Detection & Fertilizer Recommendation 
 
 [Source](https://github.com/buildwithsomnath/plant-disease-detection)
 
